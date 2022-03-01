@@ -29,7 +29,7 @@ npm install express
 npm install mongoose 
 npm install dotenv
 
-Video link at : 
+Video link at : https://drive.google.com/file/d/1WW4jcT9aw4QXAMhmo0A7rUeah0C_NolC/view?usp=sharing
 
 now run command npm start from the terminal and execute the code Check for api routing in insomina
 Working on Readme 
